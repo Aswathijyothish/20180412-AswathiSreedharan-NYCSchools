@@ -62,5 +62,8 @@ FUTURE ENHANCEMENTS
 3) PRINT DETAILS.
 4) EMAIL DETAILS.               
     
+ <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_Icon.png" height= "250" width = "135">
+ <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_HomeScreen.png" height= "250" width = "135">
  <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_CalltoPhone.png" height= "250" width = "135">
-
+ 
+ 
