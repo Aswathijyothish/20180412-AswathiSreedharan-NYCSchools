@@ -60,7 +60,8 @@ FUTURE ENHANCEMENTS
 1) ADD MENU FOR SORTING BASED ON RANKS.
 2) MAP DISPLAYING THE LOCATION OF HIGHSCHOOL.
 3) PRINT DETAILS.
-4) EMAIL DETAILS.               
+4) EMAIL DETAILS.   
+
   <table>
     <tr>
         <td>
@@ -82,10 +83,10 @@ FUTURE ENHANCEMENTS
         <td>
  
  <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_CalltoPhone.png" height= "300" width = "150">
-        <</td>
+        </td>
         <td>
  <img src = https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_SendtoWebsite.png" height= "300" width = "150"></td>
-        <td>
+    
     </tr>
     </table>
  
