@@ -62,7 +62,7 @@ FUTURE ENHANCEMENTS
 3) PRINT DETAILS.
 4) EMAIL DETAILS.   
 
-  <table>
+
     <tr>
         <td>
  <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_Icon.png" height= "300" width = "150"> </td>
@@ -81,13 +81,11 @@ FUTURE ENHANCEMENTS
      </tr>
     <tr>
         <td>
- 
  <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_CalltoPhone.png" height= "300" width = "150">
         </td>
         <td>
  <img src = https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_SendtoWebsite.png" height= "300" width = "150"></td>
-    
-    </tr>
-    </table>
+     </tr>
+ 
  
 
