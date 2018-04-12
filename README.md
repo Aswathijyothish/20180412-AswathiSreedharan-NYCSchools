@@ -62,5 +62,5 @@ FUTURE ENHANCEMENTS
 3) PRINT DETAILS.
 4) EMAIL DETAILS.               
     
- ![Alt text](/Screens/Screen_CalltoPhone.png?raw=true "Access To Phone Screen")
+ ![Alt text](/Screens/Screen_CalltoPhone.png | height= 250 | width = 135)
 
