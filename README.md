@@ -62,5 +62,5 @@ FUTURE ENHANCEMENTS
 3) PRINT DETAILS.
 4) EMAIL DETAILS.               
     
- ![Alt text](/Screens/Screen_CalltoPhone.png=250x135)
+ <img src = "https://github.com/Aswathijyothish/20180412-AswathiSreedharan-NYCSchools/blob/master/Screens/Screen_CalltoPhone.png" height= "250" width = "135">
 
