@@ -22,10 +22,10 @@ created ranking system based on SAT scores.
 
 TECHNOLOGY USED
 ------------------
- Native Android Technology (Java development without Kotlin).
- Minimum Sdk Version - API LEVEL 16
- Target Sdk Version - APLI LEVEL 26   
- Environment : Android Studio, DB Browser for Sqlite.   
+ Native Android Technology (Java development without Kotlin).<br/>
+ Minimum Sdk Version - API LEVEL 16 <br/>
+ Target Sdk Version - APLI LEVEL 26   <br/>
+ Environment : Android Studio, DB Browser for Sqlite.   <br/>
 
 ABOUT THE PROJECT
 ------------------
