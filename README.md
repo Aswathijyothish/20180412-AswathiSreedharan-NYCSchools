@@ -20,8 +20,8 @@ WHAT WILL YOU FIND IN NYC HIGHSCHOOL DIRECTORY APP
 6) Displays the NY Rank based on SAT Scores. Implemented data analytics to evaluate ranks and
 created ranking system based on SAT scores.
 
-<b>TECHNOLOGY USED<b>
-<b>--------------------- <b>
+<b>TECHNOLOGY USED</b><br>
+<b>--------------------- </b><br>
  NYC HIGHSCHOOL DIRECTORY APP is developed using Native Android Technology (Java development without Kotlin).
  Minimum Sdk Version - API LEVEL 16
  Target Sdk Version - APLI LEVEL 26   
