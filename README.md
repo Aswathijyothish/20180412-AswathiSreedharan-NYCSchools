@@ -8,7 +8,7 @@ GUIDE TO KNOW MORE ABOUT NYC HIGH SCHOOLS
 ABOUT NYC HIGHSCHOOL DIRECTORY APP
 ------------------------------------
 NYC HIGHSCHOOL DIRECTORY APP helps to know more about the high schools located in NewYork City.
-School seekers can select schools based on different SAT scores ranking.
+School seekers can select schools based on different SAT scores ranking. 
 
 WHAT WILL YOU FIND IN NYC HIGHSCHOOL DIRECTORY APP
 ----------------------------------------------------
@@ -19,6 +19,13 @@ WHAT WILL YOU FIND IN NYC HIGHSCHOOL DIRECTORY APP
 5) Displays the SAT scores (Reading,Writing,Math).
 6) Displays the NY Rank based on SAT Scores. Implemented data analytics to evaluate ranks and
 created ranking system based on SAT scores.
+
+<b>TECHNOLOGY USED<b>
+<b>--------------------- <b>
+ NYC HIGHSCHOOL DIRECTORY APP is developed using Native Android Technology (Java development without Kotlin).
+ Minimum Sdk Version - API LEVEL 16
+ Target Sdk Version - APLI LEVEL 26   
+ Environment : Android Studio, DB Browser for Sqlite.   
 
 ABOUT THE PROJECT
 ------------------
