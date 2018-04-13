@@ -22,7 +22,7 @@ created ranking system based on SAT scores.
 
 TECHNOLOGY USED
 ------------------
- NYC HIGHSCHOOL DIRECTORY APP is developed using Native Android Technology (Java development without Kotlin).
+ Native Android Technology (Java development without Kotlin).
  Minimum Sdk Version - API LEVEL 16
  Target Sdk Version - APLI LEVEL 26   
  Environment : Android Studio, DB Browser for Sqlite.   
